@@ -6,7 +6,7 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstevaoSilvaSouza&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   <div style="display: inline_block"><br>
-   <img align="left" alt="Estevao-pic" height="150" style="border-radius:50px;" src="https://i.gifer.com/origin/bf/bfaa157c2e3308471d51aa4feaf99293_w200.gif?width=676&height=676">
+   <img align="left" alt="Estevao-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/59/91/da/5991da42769d1826ea219fb3baa827df.gif?width=676&height=676">
   <img align="center" alt="Estevao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
  <!-- <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -->
