@@ -17,7 +17,7 @@
 
 ## 🚀 Sobre mim
 
-- 💼 Atualmente atuando no **GRUPOCARD**
+- 💼 Atualmente atuando no **GRUPO TOTAL**
 - 🌎 Baseado em **Ribeirão Preto - SP**
 - 💻 Foco em desenvolvimento **Full Stack**
 - 🧠 Curto transformar ideias em produtos reais
@@ -92,3 +92,4 @@
 <p align="center">
   Feito com dedicação por <strong>Estevão Souza</strong> 🚀
 </p>
+
