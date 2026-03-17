@@ -1,7 +1,7 @@
 <h1 align="center">Estevão Souza 👋</h1>
 
 <p align="center">
-  <strong>Desenvolvedor Full Stack</strong> apaixonado por tecnologia e por criar soluções que fazem diferença no dia a dia.
+  <strong>Desenvolvedor Full Stack</strong> com mais de 3 anos de experiência construindo sistemas escaláveis, aplicações em tempo real e soluções com impacto direto no negócio.
 </p>
 
 <p align="center">
@@ -21,44 +21,80 @@
 
 ## 🚀 Sobre mim
 
-Sou um desenvolvedor Full Stack focado em construir aplicações web úteis, organizadas e com impacto real.
+Desenvolvedor Full Stack com foco em transformar requisitos complexos em sistemas funcionais, escaláveis e prontos para produção.
 
-Atualmente atuo no **GRUPO TOTAL**, trabalhando com tecnologia no dia a dia e evoluindo constantemente minhas habilidades em desenvolvimento, arquitetura de software e criação de soluções práticas.
+Hoje atuo no **Grupo Total**, participando de todo o ciclo de desenvolvimento: desenho da solução, modelagem de dados, construção de APIs, desenvolvimento de interfaces e deploy em produção.
 
-Tenho interesse especial em:
-
-- Desenvolvimento **Full Stack**
-- Interfaces modernas e funcionais
-- APIs e integração entre sistemas
-- Organização de código e evolução contínua dos projetos
-- Soluções que resolvem problemas reais
+Tenho experiência prática com aplicações de alto volume, sistemas em tempo real, automações de processos e produtos internos com impacto direto na operação do negócio.
 
 ---
 
-## 💼 O que eu faço
+## 💼 Especialidades
 
-- Desenvolvimento de aplicações web
-- Criação e manutenção de interfaces front-end
-- Integração com APIs e serviços externos
-- Estruturação de projetos com foco em escalabilidade e manutenção
-- Evolução contínua de produtos e sistemas internos
+- Backend com **Node.js (Express, NestJS)** e **PHP (Laravel)**
+- Aplicações em tempo real com **WebSocket**
+- Processamento assíncrono com **BullMQ** e **Redis**
+- Frontend com **React.js**, **TypeScript**, **JavaScript** e **Tailwind CSS**
+- Modelagem e otimização de dados com **PostgreSQL**, **MySQL**, **MongoDB** e **Redis**
+- Deploy, automações e ambientes **Linux / AWS EC2 / GitHub Actions**
 
 ---
 
-## 🛠️ Tecnologias e ferramentas
+## 🛠️ Stack técnica
 
 <p align="left">
   <img alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="TypeScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img alt="Angular" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+  <img alt="Node.js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img alt="NestJS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">
+  <img alt="PHP" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img alt="Laravel" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
   <img alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="CSharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img alt="Tailwind" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
+  <img alt="PostgreSQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img alt="MySQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img alt="MongoDB" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+  <img alt="Redis" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
   <img alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img alt="GitHub" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img alt="Linux" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img alt="AWS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
   <img alt="VSCode" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 </p>
+
+---
+
+## 📌 Impacto em projetos
+
+- **Plataformas de eventos** com alto volume de acessos simultâneos
+- **Sistemas de sorteio em tempo real** com WebSocket, Redis Cluster e BullMQ
+- **CRMs customizados** para operação comercial
+- **Programas de fidelização** com impacto direto no negócio
+- **Dashboards administrativos** com métricas, performance e automação de processos
+
+---
+
+## 🏢 Experiência recente
+
+### Grupo Total — Full Stack Developer
+**dez/2024 - atual**
+
+Principais entregas:
+- Arquitetura de sorteios ao vivo suportando milhares de participantes simultâneos
+- Automação de processos, reduzindo tempo operacional em até **70%**
+- Desenvolvimento de dashboards com **React.js + TypeScript** integrados a APIs REST
+- Evolução de sistemas com **NestJS**, **Express** e **Laravel** em produção
+- Implementação de soluções internas usadas diariamente por times de operação e marketing
+
+### Grupo Total — Full Stack Developer Trainee
+**abr/2024 - dez/2024**
+
+- Desenvolvimento de APIs REST com **Node.js**, **NestJS** e **Laravel**
+- Criação de interfaces responsivas com **React.js**, **TypeScript** e **Tailwind CSS**
+- Modelagem e otimização de queries em bancos relacionais e não relacionais
+- Atuação com bugs críticos, refatoração, documentação e code review
 
 ---
 
@@ -68,31 +104,6 @@ Tenho interesse especial em:
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=EstevaoSilvaSouza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstevaoSilvaSouza&layout=compact&langs_count=8&theme=tokyonight" />
 </p>
-
----
-
-## 📌 Projetos em destaque
-
-Meus repositórios mostram minha evolução prática com front-end, back-end e construção de aplicações web.
-
-Principais destaques atuais:
-
-- **trabalho_tcc_ads** — Trabalho de Conclusão de Curso em ADS
-- **project_cost_react** — Gerenciador de custo de projetos
-- **ControlImpre** — Sistema de controle de impressoras
-- **moments_angular** — Projeto inspirado em rede social com Angular
-
----
-
-## 📚 Em evolução
-
-Estou sempre buscando evoluir em:
-
-- Arquitetura de software
-- Boas práticas de desenvolvimento
-- Experiência do usuário
-- Organização e qualidade de código
-- Construção de projetos mais sólidos e profissionais
 
 ---
 
@@ -124,5 +135,5 @@ Estou sempre buscando evoluir em:
 ---
 
 <p align="center">
-  Feito com dedicação por <strong>Estevão Souza</strong> 🚀
+  Aberto a oportunidades como <strong>Desenvolvedor Full Stack</strong> ou <strong>Backend Developer</strong>.
 </p>
