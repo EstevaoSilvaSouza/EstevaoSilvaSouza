@@ -1,7 +1,7 @@
-<h1 align="center">Fala, eu sou o Estevão Souza 👋</h1>
+<h1 align="center">Estevão Souza 👋</h1>
 
 <p align="center">
-  Desenvolvedor <strong>Full Stack</strong> apaixonado por tecnologia e por criar soluções que fazem diferença no dia a dia.
+  <strong>Desenvolvedor Full Stack</strong> apaixonado por tecnologia e por criar soluções que fazem diferença no dia a dia.
 </p>
 
 <p align="center">
@@ -13,15 +13,35 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EstevaoSilvaSouza&theme=tokyonight" alt="Resumo do perfil" />
+</p>
+
 ---
 
 ## 🚀 Sobre mim
 
-- 💼 Atualmente atuando no **GRUPO TOTAL**
-- 🌎 Baseado em **Ribeirão Preto - SP**
-- 💻 Foco em desenvolvimento **Full Stack**
-- 🧠 Curto transformar ideias em produtos reais
-- 🔎 Sempre buscando evoluir em arquitetura, front-end, back-end e experiência do usuário
+Sou um desenvolvedor Full Stack focado em construir aplicações web úteis, organizadas e com impacto real.
+
+Atualmente atuo no **GRUPO TOTAL**, trabalhando com tecnologia no dia a dia e evoluindo constantemente minhas habilidades em desenvolvimento, arquitetura de software e criação de soluções práticas.
+
+Tenho interesse especial em:
+
+- Desenvolvimento **Full Stack**
+- Interfaces modernas e funcionais
+- APIs e integração entre sistemas
+- Organização de código e evolução contínua dos projetos
+- Soluções que resolvem problemas reais
+
+---
+
+## 💼 O que eu faço
+
+- Desenvolvimento de aplicações web
+- Criação e manutenção de interfaces front-end
+- Integração com APIs e serviços externos
+- Estruturação de projetos com foco em escalabilidade e manutenção
+- Evolução contínua de produtos e sistemas internos
 
 ---
 
@@ -53,12 +73,26 @@
 
 ## 📌 Projetos em destaque
 
-- **trabalho_tcc_ads** — Trabalho de Conclusão de Curso ADS
+Meus repositórios mostram minha evolução prática com front-end, back-end e construção de aplicações web.
+
+Principais destaques atuais:
+
+- **trabalho_tcc_ads** — Trabalho de Conclusão de Curso em ADS
 - **project_cost_react** — Gerenciador de custo de projetos
 - **ControlImpre** — Sistema de controle de impressoras
-- **moments_angular** — Projeto inspirado em rede social, desenvolvido em Angular
+- **moments_angular** — Projeto inspirado em rede social com Angular
 
-> Se quiser, eu também posso depois organizar teus repositórios fixados pra combinar com essa apresentação.
+---
+
+## 📚 Em evolução
+
+Estou sempre buscando evoluir em:
+
+- Arquitetura de software
+- Boas práticas de desenvolvimento
+- Experiência do usuário
+- Organização e qualidade de código
+- Construção de projetos mais sólidos e profissionais
 
 ---
 
@@ -92,4 +126,3 @@
 <p align="center">
   Feito com dedicação por <strong>Estevão Souza</strong> 🚀
 </p>
-
