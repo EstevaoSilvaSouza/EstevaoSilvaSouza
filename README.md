@@ -5,12 +5,19 @@
 </p>
 
 <p align="center">
-  🚀 Node.js • NestJS • Laravel • React • Redis • WebSocket • AWS
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSocket" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
 </p>
 
 <p align="center">
   <a href="https://github.com/EstevaoSilvaSouza">
-    <img src="https://komarev.com/ghpvc/?username=EstevaoSilvaSouza&label=Visualizações&color=0e75b6&style=flat" alt="Visualizações do perfil" />
+    <img src="https://komarev.com/ghpvc/?username=EstevaoSilvaSouza&label=Visualiza%C3%A7%C3%B5es&color=0e75b6&style=flat" alt="Visualizações do perfil" />
   </a>
   <a href="https://github.com/EstevaoSilvaSouza?tab=followers">
     <img src="https://img.shields.io/github/followers/EstevaoSilvaSouza?label=Seguidores&style=social" alt="Seguidores" />
@@ -18,31 +25,22 @@
 </p>
 
 <div align="center">
-  <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EstevaoSilvaSouza&theme=radical" alt="Resumo do perfil pessoal" />
-  <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EstevaoSouzaTotal&theme=radical" alt="Resumo do perfil empresa" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EstevaoSilvaSouza&theme=radical" alt="Resumo do perfil pessoal" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EstevaoSouzaTotal&theme=radical" alt="Resumo do perfil empresa" />
 </div>
 
 <br>
 
 ## 🚀 Sobre mim
 
-Desenvolvedor Full Stack com foco em **performance, escalabilidade e impacto no negócio**.
+Desenvolvedor Full Stack com foco em **performance**, **escalabilidade** e **impacto no negócio**.
 
-Hoje atuo no **Grupo Total**, participando de todo o ciclo de desenvolvimento:
-- arquitetura da solução
-- modelagem de dados
-- construção de APIs
-- desenvolvimento de interfaces
-- deploy em produção
+Atualmente atuo no **Grupo Total**, participando de ponta a ponta no desenvolvimento de sistemas:
+**arquitetura**, **backend**, **frontend**, **modelagem de dados** e **deploy**.
 
-Tenho experiência prática com:
-- sistemas de alto volume
-- processamento assíncrono
-- aplicações em tempo real
-- automações de processos
-- produtos internos críticos para operação
+Tenho experiência prática com aplicações de alto volume, processamento assíncrono, soluções em tempo real, automações internas e produtos críticos para operação.
 
-⚡ Meu foco é construir sistemas rápidos, estáveis e que gerem resultado real.
+💡 Gosto de construir sistemas estáveis, rápidos e que resolvem problemas reais.
 
 ---
 
@@ -59,26 +57,18 @@ Tenho experiência prática com:
 
 ## 🛠️ Stack técnica
 
-### 🚀 Backend
+### 🚀 Stack principal
 <p align="center">
+  <img alt="JavaScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="TypeScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img alt="React" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img alt="Node.js" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img alt="NestJS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">
   <img alt="PHP" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img alt="Laravel" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
-</p>
-
-### 🎨 Frontend
-<p align="center">
-  <img alt="React" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img alt="TypeScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img alt="JavaScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="HTML5" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="CSS3" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="Tailwind CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
-</p>
-
-### 🗄️ Banco de dados e Infra
-<p align="center">
+  <img alt="Tailwind CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
   <img alt="PostgreSQL" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img alt="MySQL" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img alt="MongoDB" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
@@ -88,6 +78,13 @@ Tenho experiência prática com:
   <img alt="Linux" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img alt="AWS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
   <img alt="VSCode" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+</p>
+
+### 🧩 Experiência adicional
+<p align="center">
+  <img alt="C#" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img alt="SQL Server" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+  <img alt="Oracle" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
 </p>
 
 ---
@@ -128,8 +125,8 @@ Principais entregas:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=EstevaoSilvaSouza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstevaoSilvaSouza&layout=compact&langs_count=8&theme=tokyonight" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=EstevaoSilvaSouza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstevaoSilvaSouza&layout=compact&langs_count=8&theme=tokyonight" alt="Top Langs" />
 </p>
 
 <p align="center">
@@ -151,7 +148,7 @@ Principais entregas:
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://estevaodev.rf.gd/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
   </a>
 </p>
 
