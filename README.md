@@ -13,10 +13,10 @@
   </a>
 </p>
 
-
-  ![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EstevaoSilvaSouza&theme=radical)
-  ![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EstevaoSouzaTotal&theme=tokyonight)
-
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EstevaoSilvaSouza&theme=tokyonight" alt="Resumo do perfil" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EstevaoSouzaTotal&theme=tokyonight" alt="Resumo do perfil" />
+</p>
 
 ---
 
