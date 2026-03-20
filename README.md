@@ -13,9 +13,10 @@
   </a>
 </p>
 
-![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EstevaoSilvaSouza&theme=radical)
-![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EstevaoSouzaTotal&theme=radical)
-
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EstevaoSilvaSouza&theme=radical" alt="Resumo do perfil pessoal" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EstevaoSouzaTotal&theme=radical" alt="Resumo do perfil empresa" />
+</div>
 ---
 
 ## 🚀 Sobre mim
