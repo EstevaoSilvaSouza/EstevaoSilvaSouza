@@ -1,7 +1,7 @@
 <h1 align="center">Estevão Souza 👋</h1>
 
 <p align="center">
-  <strong>Full Stack Developer focado em sistemas escaláveis, aplicações em tempo real e soluções com impacto direto no negócio.</strong>
+  <strong>Desenvolvedor Backend / Full Stack focado em APIs escaláveis, sistemas em tempo real, integrações e soluções com impacto direto no negócio.</strong>
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSocket" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
 <p align="center">
@@ -33,31 +33,31 @@
 
 ## 🚀 Sobre mim
 
-Desenvolvedor Full Stack com foco em **performance**, **escalabilidade** e **impacto no negócio**.
+Sou Desenvolvedor Backend / Full Stack com mais de 3 anos de experiência na construção de aplicações web, APIs escaláveis, sistemas em tempo real e soluções internas com impacto direto no negócio.
 
-Atualmente atuo no **Grupo Total**, participando de ponta a ponta no desenvolvimento de sistemas:
-**arquitetura**, **backend**, **frontend**, **modelagem de dados** e **deploy**.
+Atuo principalmente com **Node.js**, **NestJS**, **Laravel**, **React** e **TypeScript**, participando de ponta a ponta no desenvolvimento de produtos: arquitetura, backend, frontend, banco de dados, integrações, deploy e evolução contínua.
 
-Tenho experiência prática com aplicações de alto volume, processamento assíncrono, soluções em tempo real, automações internas e produtos críticos para operação.
+Tenho experiência prática com aplicações em produção, processamento assíncrono, filas, WebSockets, automações internas, integrações entre sistemas e produtos críticos para operação.
 
-💡 Gosto de construir sistemas estáveis, rápidos e que resolvem problemas reais.
+Hoje também contribuo com apoio técnico ao time, resolução de problemas, mentoria no dia a dia e colaboração na divisão de tarefas.
 
 ---
 
 ## 💼 Especialidades
 
-- Backend com **Node.js (Express, NestJS)** e **PHP (Laravel)**
+- Desenvolvimento backend com **Node.js (Express, NestJS)** e **Laravel**
 - Aplicações em tempo real com **WebSocket**
 - Processamento assíncrono com **BullMQ** e **Redis**
 - Frontend com **React.js**, **TypeScript**, **JavaScript** e **Tailwind CSS**
-- Modelagem e otimização de dados com **PostgreSQL**, **MySQL**, **MongoDB** e **Redis**
-- Deploy, automações e ambientes **Linux / AWS EC2 / GitHub Actions**
+- Modelagem e otimização de dados com **PostgreSQL**, **MySQL**, **MongoDB**, **SQL Server** e **Oracle**
+- Integrações com sistemas externos e automações internas
+- Deploy, pipelines e infraestrutura com **Docker**, **GitHub Actions**, **GitHub Runner**, **Linux** e **AWS EC2**
 
 ---
 
 ## 🛠️ Stack técnica
 
-### 🚀 Stack principal
+### Stack principal
 <p align="center">
   <img alt="JavaScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="TypeScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -66,9 +66,6 @@ Tenho experiência prática com aplicações de alto volume, processamento assí
   <img alt="NestJS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">
   <img alt="PHP" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img alt="Laravel" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
-  <img alt="HTML5" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="CSS3" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="Tailwind CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
   <img alt="PostgreSQL" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img alt="MySQL" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img alt="MongoDB" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
@@ -77,10 +74,10 @@ Tenho experiência prática com aplicações de alto volume, processamento assí
   <img alt="GitHub" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   <img alt="Linux" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img alt="AWS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-  <img alt="VSCode" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img alt="Docker" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 </p>
 
-### 🧩 Experiência adicional
+### Experiência adicional
 <p align="center">
   <img alt="C#" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img alt="SQL Server" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
@@ -91,12 +88,13 @@ Tenho experiência prática com aplicações de alto volume, processamento assí
 
 ## 📌 Impacto em projetos
 
-- ⚡ Sistemas de sorteio em tempo real com milhares de usuários simultâneos
-- 🚀 Redução de até **70% em processos operacionais**
-- 📊 Dashboards com métricas críticas para tomada de decisão
-- 🔄 Automações internas que aumentaram a eficiência do time
-- 🧠 Arquitetura de sistemas escaláveis com Redis, filas e WebSocket
-- 🏢 Soluções internas com impacto direto na operação comercial e marketing
+- ⚡ Arquitetura de sistemas de sorteio em tempo real com milhares de usuários simultâneos
+- 🚀 Redução de até **70% em processos operacionais** por meio de automações internas
+- 🧩 Criação do sistema interno de chamados **Demanda** do zero, com fluxos e formulários personalizados por departamento
+- 🔄 Integrações com **OMIE** e **Sólides RH** em sistemas internos e CRM
+- 📦 Melhorias na esteira de deploy com automação de pipelines usando **Docker** e **GitHub Runner**
+- 📊 Dashboards e soluções internas com impacto direto na operação comercial, marketing e demais áreas da empresa
+- 🧠 Apoio técnico e mentoria para colaboradores no dia a dia da equipe
 
 ---
 
@@ -106,11 +104,13 @@ Tenho experiência prática com aplicações de alto volume, processamento assí
 **dez/2024 - atual**
 
 Principais entregas:
-- Arquitetura de sorteios ao vivo suportando milhares de participantes simultâneos
-- Automação de processos, reduzindo tempo operacional em até **70%**
-- Desenvolvimento de dashboards com **React.js + TypeScript** integrados a APIs REST
-- Evolução de sistemas com **NestJS**, **Express** e **Laravel** em produção
-- Implementação de soluções internas usadas diariamente por times de operação e marketing
+- Arquitetura e evolução de sistemas com **Node.js**, **NestJS**, **Laravel** e **React.js** em ambiente de produção
+- Implementação de soluções em tempo real com **Redis**, **BullMQ** e **WebSocket**
+- Criação do sistema interno **Demanda**, apoiando a migração de processos antes controlados por planilhas
+- Integrações com **OMIE** e **Sólides RH**, conectando operações entre sistemas e áreas internas
+- Atualização da esteira de deploy com scripts e pipelines CI/CD usando **Docker** e **GitHub Runner**
+- Automação de processos com redução de até **70% no tempo operacional**
+- Apoio técnico ao time na resolução de dúvidas, problemas e organização das demandas
 
 ### Grupo Total — Full Stack Developer Trainee
 **abr/2024 - dez/2024**
@@ -163,5 +163,5 @@ Principais entregas:
 ---
 
 <p align="center">
-  🚀 <strong>Disponível para oportunidades como Full Stack Developer ou Backend Developer</strong>
+  🚀 <strong>Disponível para oportunidades como Backend Developer ou Full Stack Developer</strong>
 </p>
